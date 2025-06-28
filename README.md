@@ -1,17 +1,17 @@
 # calm-long.github.io 
-##Typst<br>
-###Introduction<br>
+## Typst
+### Introduction
 Typst is an online typora textor.<br>
-####1.website<br>
+#### 1.website
 https://typst.app<br>
 
 
-###Basic usage of Typst<br>
-####1.bold<br>
+### Basic usage of Typst
+#### 1.bold
 ```bash
 *XXX* or #strong[XXX]
 ```
-####2.color<br>
+#### 2.color
 ```bash
 #text(color)[XXX]
 ```
